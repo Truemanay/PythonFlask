@@ -1,0 +1,2 @@
+service: dev
+runtime: python310
